@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/srinath-b" target="popup"> LinkedIn <img src="./resized-svg/link.svg"/></a>
-<a href="mailto:srinathbotsa@gmail.com"> Email <img src="./resized-svg/gmail.svg"/></a>
+- <a href="https://linkedin.com/in/srinath-b" target="popup"> LinkedIn <img src="./resized-svg/link.svg"/></a>
+- <a href="mailto:srinathbotsa@gmail.com"> Email <img src="./resized-svg/gmail.svg"/></a>
 </p>
