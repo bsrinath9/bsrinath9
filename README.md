@@ -7,11 +7,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Full Stack Java** project with **React & Spring**...
+- 🔭 I’m currently working on **Full Stack** project with **React & Node**...
 - 🌱 I’m currently learning **Typescript**,**GraphQL**...
 - 👨‍💻 You can find my projects at [github](https://github.com/bsrinath9?tab=repositories)
 - 📫 How to reach me:**srinathbotsa@gmail.com**
-- ⚡ Fun fact: I collect toys, toy cars, Action figures and the list goes on 
+- ⚡ Fun fact: I'm a CATholic :smiley_cat: 
 
 ### 🛠 &nbsp;Languages and Tools
 
