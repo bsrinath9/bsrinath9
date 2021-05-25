@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=bsrinath9&color=blue&style=flat">
 </p>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Full Stack** project with **React & Node**...
 - 🌱 I’m currently learning **Typescript**,**GraphQL**...
