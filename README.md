@@ -11,7 +11,7 @@
 - 👨‍💻 You can find my projects at [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bsrinath9/)
       
 - 📫 How to reach me:
-         [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://bsrinath9.github.io) 
+         [![](https://img.shields.io/badge/🌐Website-100000?&style=for-the-badge)](https://bsrinath9.github.io) 
          [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&target="popup")](https://www.linkedin.com/in/srinath-b/)
          
 ### 🛠 &nbsp;Languages and Tools
