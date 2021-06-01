@@ -9,8 +9,10 @@
 - 🔭 I’m currently working on **Full Stack** project with **React & Node**...
 - 🌱 I’m currently learning **Typescript**,**GraphQL**,**Kubernetes**...
 - 👨‍💻 You can find my projects at [github](https://github.com/bsrinath9?tab=repositories)
-- 📫 How to reach me:**srinathbotsa@gmail.com**
-- ⚡ Fun fact: I'm a CATholic :smiley_cat: 
+- 📫 How to reach me:
+         [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://bsrinath9.github.io) 
+         [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinath-b/)
+
 
 ### 🛠 &nbsp;Languages and Tools
 
@@ -22,18 +24,13 @@
 - RHEL ![RHEL](./resized-svg/linux.svg) |  Windows ![Windows](./resized-svg/windows.svg) | AWS ![AWS](./resized-svg/amazonaws.svg)
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️  &nbsp;GitHub Analytics
 
-<p align="center">
 <a href="https://github.com/bsrinath9">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bsrinath9&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsrinath9&layout=compact&langs_count=8&theme=algolia"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=bsrinath9&theme=default&show_icons=true" />
 </a>
-</p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-
-- <a href="https://linkedin.com/in/srinath-b" target="popup"> LinkedIn <img src="./resized-svg/link.svg"/></a>
-- <a href="mailto:srinathbotsa@gmail.com"> Email <img src="./resized-svg/gmail.svg"/></a>
+<a href="https://github.com/bsrinath9">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrinath9&theme=default&show_icons=true" />
+</a>
 
