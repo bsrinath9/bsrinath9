@@ -8,13 +8,12 @@
 
 - 🔭 I’m currently working on **Full Stack** project with **React & Node**...
 - 🌱 I’m currently learning **Typescript**,**GraphQL**,**Kubernetes**...
-- 👨‍💻 You can find my projects at [github](https://github.com/bsrinath9?tab=repositories)
+- 👨‍💻 You can find my projects at [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bsrinath9/)
+      
 - 📫 How to reach me:
          [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://bsrinath9.github.io) 
          [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&target="popup")](https://www.linkedin.com/in/srinath-b/)
-         <a href="https://linkedin.com/in/srinath-b" target="popup"> LinkedIn <img src="./resized-svg/link.svg"/> 
-
-
+         
 ### 🛠 &nbsp;Languages and Tools
 
 - JavaScript ![JavaScript](./resized-svg/javascript.svg) | HTML ![HTML](./resized-svg/html5.svg) | CSS ![CSS](./resized-svg/css3.svg)
