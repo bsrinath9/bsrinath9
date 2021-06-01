@@ -12,6 +12,7 @@
 - 📫 How to reach me:
          [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://bsrinath9.github.io) 
          [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&target="popup")](https://www.linkedin.com/in/srinath-b/)
+         <a href="https://linkedin.com/in/srinath-b" target="popup"> LinkedIn <img src="./resized-svg/link.svg"/> 
 
 
 ### 🛠 &nbsp;Languages and Tools
