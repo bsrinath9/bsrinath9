@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Full Stack** project with **React & Node**...
+<!--- 🔭 I’m currently working on **Full Stack** project with **React & Node**... --->
 - 🌱 I’m currently learning **Typescript**,**GraphQL**,**Kubernetes**...
 - 👨‍💻 You can find my projects at [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bsrinath9/)
       
@@ -22,6 +22,8 @@
 - MongoDB ![MongoDB](./resized-svg/mongodb.svg) |  Firebase ![Firebase](./resized-svg/firebase.svg) |  MySQL ![MySQL](./resized-svg/mysql.svg)
 - Git ![Git](./resized-svg/git.svg) |  GitHub ![GitHub](./resized-svg/github.svg) |  vscode ![vscode](./resized-svg/visualstudiocode.svg)
 - RHEL ![RHEL](./resized-svg/linux.svg) |  Windows ![Windows](./resized-svg/windows.svg) | AWS ![AWS](./resized-svg/amazonaws.svg)
+- DevOps - Jenkins | Terraform | Kubernetes | Selenium
+
 <br/>
 
 ### ⚙️  &nbsp;GitHub Analytics
